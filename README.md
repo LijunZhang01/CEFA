@@ -1,4 +1,5 @@
-# HOICLIP: Efficient-Knowledge-Transfer-for-HOI-Detection-with-Visual-Linguistic-Model
+# CEFA: A Plug-and-Play Method for Rare Human-Object Interactions
+Detection by Bridging Domain Gap
 
 Code for our ACM MM24
 paper "[A Plug-and-Play Method for Rare Human-Object Interactions
