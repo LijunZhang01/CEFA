@@ -3,7 +3,7 @@
 Code for our ACM MM24
 paper "[A Plug-and-Play Method for Rare Human-Object Interactions
 Detection by Bridging Domain Gap](http://arxiv.org/abs/2407.21438)"
-.![image-20240805145200529](C:\Users\LijunZhang\AppData\Roaming\Typora\typora-user-images\image-20240805145200529.png)
+.![image-20240805145200529](https://github.com/LijunZhang01/CEFA/blob/master/tmp/1212.png)
 
 Contributed by Lijun Zhang, Wei Suo, Peng Wang, Yanning Zhang.
 
